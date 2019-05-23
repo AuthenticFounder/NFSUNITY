@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: dab7e7e1a0173fb49bb7355f701a61ac
+timeCreated: 1557819993
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_L
+    100002: arm_R
+    100004: Armature
+    100006: basin
+    100008: chest
+    100010: coccyx_L
+    100012: coccyx_R
+    100014: finger1.1_L
+    100016: finger1.1_R
+    100018: finger1.2_L
+    100020: finger1.2_R
+    100022: finger1.3_L
+    100024: finger1.3_R
+    100026: finger1.4_L
+    100028: finger1.4_R
+    100030: finger2.1_L
+    100032: finger2.1_R
+    100034: finger2.2_L
+    100036: finger2.2_R
+    100038: finger2.3_L
+    100040: finger2.3_R
+    100042: finger2.4_L
+    100044: finger2.4_R
+    100046: finger3.1_L
+    100048: finger3.1_R
+    100050: finger3.2_L
+    100052: finger3.2_R
+    100054: finger3.3_L
+    100056: finger3.3_R
+    100058: finger3.4_L
+    100060: finger3.4_R
+    100062: finger4.1_L
+    100064: finger4.1_R
+    100066: finger4.2_L
+    100068: finger4.2_R
+    100070: finger4.3_L
+    100072: finger4.3_R
+    100074: finger4.4_L
+    100076: finger4.4_R
+    100078: finger5.1_L
+    100080: finger5.1_R
+    100082: finger5.2_L
+    100084: finger5.2_R
+    100086: finger5.3_L
+    100088: finger5.3_R
+    100090: finger5.4_L
+    100092: finger5.4_R
+    100094: foot_L
+    100096: foot_R
+    100098: forearm_L
+    100100: forearm_R
+    100102: head
+    100104: leg_L
+    100106: leg_R
+    100108: neck
+    100110: //RootNode
+    100112: Ryan_Cooper
+    100114: Ryan_Cooper_Visor_Helper
+    100116: shoulder_L
+    100118: shoulder_R
+    100120: thigh_L
+    100122: thigh_R
+    100124: toe_L
+    100126: toe_R
+    100128: visor
+    400000: arm_L
+    400002: arm_R
+    400004: Armature
+    400006: basin
+    400008: chest
+    400010: coccyx_L
+    400012: coccyx_R
+    400014: finger1.1_L
+    400016: finger1.1_R
+    400018: finger1.2_L
+    400020: finger1.2_R
+    400022: finger1.3_L
+    400024: finger1.3_R
+    400026: finger1.4_L
+    400028: finger1.4_R
+    400030: finger2.1_L
+    400032: finger2.1_R
+    400034: finger2.2_L
+    400036: finger2.2_R
+    400038: finger2.3_L
+    400040: finger2.3_R
+    400042: finger2.4_L
+    400044: finger2.4_R
+    400046: finger3.1_L
+    400048: finger3.1_R
+    400050: finger3.2_L
+    400052: finger3.2_R
+    400054: finger3.3_L
+    400056: finger3.3_R
+    400058: finger3.4_L
+    400060: finger3.4_R
+    400062: finger4.1_L
+    400064: finger4.1_R
+    400066: finger4.2_L
+    400068: finger4.2_R
+    400070: finger4.3_L
+    400072: finger4.3_R
+    400074: finger4.4_L
+    400076: finger4.4_R
+    400078: finger5.1_L
+    400080: finger5.1_R
+    400082: finger5.2_L
+    400084: finger5.2_R
+    400086: finger5.3_L
+    400088: finger5.3_R
+    400090: finger5.4_L
+    400092: finger5.4_R
+    400094: foot_L
+    400096: foot_R
+    400098: forearm_L
+    400100: forearm_R
+    400102: head
+    400104: leg_L
+    400106: leg_R
+    400108: neck
+    400110: //RootNode
+    400112: Ryan_Cooper
+    400114: Ryan_Cooper_Visor_Helper
+    400116: shoulder_L
+    400118: shoulder_R
+    400120: thigh_L
+    400122: thigh_R
+    400124: toe_L
+    400126: toe_R
+    400128: visor
+    4300000: Ryan_Cooper
+    9500000: //RootNode
+    13700000: Ryan_Cooper
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

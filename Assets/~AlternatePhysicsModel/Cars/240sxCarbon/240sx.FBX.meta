@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 4de8df429bbf4e141b9e0a70d1b4fc71
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body
+    100004: Caliper_FL
+    100006: Caliper_FR
+    100008: Caliper_RL
+    100010: Caliper_RR
+    100012: Driver
+    100014: Headlight_Closed
+    100016: Headlight_Open
+    100018: Spoiler
+    100020: TireFL
+    100022: TireFR
+    100024: TireRL
+    100026: TireRR
+    400000: //RootNode
+    400002: Body
+    400004: Caliper_FL
+    400006: Caliper_FR
+    400008: Caliper_RL
+    400010: Caliper_RR
+    400012: Driver
+    400014: Headlight_Closed
+    400016: Headlight_Open
+    400018: Spoiler
+    400020: TireFL
+    400022: TireFR
+    400024: TireRL
+    400026: TireRR
+    2300000: Body
+    2300002: Caliper_FL
+    2300004: Caliper_FR
+    2300006: Caliper_RL
+    2300008: Caliper_RR
+    2300010: Driver
+    2300012: Headlight_Closed
+    2300014: Headlight_Open
+    2300016: Spoiler
+    2300018: TireFL
+    2300020: TireFR
+    2300022: TireRL
+    2300024: TireRR
+    3300000: Body
+    3300002: Caliper_FL
+    3300004: Caliper_FR
+    3300006: Caliper_RL
+    3300008: Caliper_RR
+    3300010: Driver
+    3300012: Headlight_Closed
+    3300014: Headlight_Open
+    3300016: Spoiler
+    3300018: TireFL
+    3300020: TireFR
+    3300022: TireRL
+    3300024: TireRR
+    4300000: Body
+    4300002: Driver
+    4300004: Headlight_Open
+    4300006: Spoiler
+    4300008: TireFL
+    4300010: TireFR
+    4300012: TireRL
+    4300014: TireRR
+    4300016: Headlight_Closed
+    4300018: Caliper_RL
+    4300020: Caliper_RR
+    4300022: Caliper_FR
+    4300024: Caliper_FL
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  userData: 

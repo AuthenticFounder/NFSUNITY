@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 2a4180fc15a712b409f6be78a47d20e5
+timeCreated: 1456973942
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ford_mustang_falken_body_loda
+    100004: ford_mustang_falken_bonnet_loda
+    100006: ford_mustang_falken_bootlid_loda
+    100008: ford_mustang_falken_bumper_front_loda
+    100010: ford_mustang_falken_bumper_rear_loda
+    100012: ford_mustang_falken_caliper_lf_loda
+    100014: ford_mustang_falken_caliper_lr_loda
+    100016: ford_mustang_falken_caliper_rf_loda
+    100018: ford_mustang_falken_caliper_rr_loda
+    100020: ford_mustang_falken_chassis_lights_loda
+    100022: ford_mustang_falken_chassis_loda
+    100024: ford_mustang_falken_disc_lf_loda
+    100026: ford_mustang_falken_disc_lr_loda
+    100028: ford_mustang_falken_disc_rf_loda
+    100030: ford_mustang_falken_disc_rr_loda
+    100032: ford_mustang_falken_interior_loda
+    100034: ford_mustang_falken_lightglows_f_loda
+    100036: ford_mustang_falken_lightglows_r_loda
+    100038: ford_mustang_falken_mirror_l_loda
+    100040: ford_mustang_falken_mirror_r_loda
+    100042: ford_mustang_falken_steeringwheel_loda
+    100044: ford_mustang_falken_tire_lf_loda
+    100046: ford_mustang_falken_tire_lr_loda
+    100048: ford_mustang_falken_tire_rf_loda
+    100050: ford_mustang_falken_tire_rr_loda
+    100052: ford_mustang_falken_wheel_lf_loda
+    100054: ford_mustang_falken_wheel_lr_loda
+    100056: ford_mustang_falken_wheel_rf_loda
+    100058: ford_mustang_falken_wheel_rr_loda
+    400000: //RootNode
+    400002: ford_mustang_falken_body_loda
+    400004: ford_mustang_falken_bonnet_loda
+    400006: ford_mustang_falken_bootlid_loda
+    400008: ford_mustang_falken_bumper_front_loda
+    400010: ford_mustang_falken_bumper_rear_loda
+    400012: ford_mustang_falken_caliper_lf_loda
+    400014: ford_mustang_falken_caliper_lr_loda
+    400016: ford_mustang_falken_caliper_rf_loda
+    400018: ford_mustang_falken_caliper_rr_loda
+    400020: ford_mustang_falken_chassis_lights_loda
+    400022: ford_mustang_falken_chassis_loda
+    400024: ford_mustang_falken_disc_lf_loda
+    400026: ford_mustang_falken_disc_lr_loda
+    400028: ford_mustang_falken_disc_rf_loda
+    400030: ford_mustang_falken_disc_rr_loda
+    400032: ford_mustang_falken_interior_loda
+    400034: ford_mustang_falken_lightglows_f_loda
+    400036: ford_mustang_falken_lightglows_r_loda
+    400038: ford_mustang_falken_mirror_l_loda
+    400040: ford_mustang_falken_mirror_r_loda
+    400042: ford_mustang_falken_steeringwheel_loda
+    400044: ford_mustang_falken_tire_lf_loda
+    400046: ford_mustang_falken_tire_lr_loda
+    400048: ford_mustang_falken_tire_rf_loda
+    400050: ford_mustang_falken_tire_rr_loda
+    400052: ford_mustang_falken_wheel_lf_loda
+    400054: ford_mustang_falken_wheel_lr_loda
+    400056: ford_mustang_falken_wheel_rf_loda
+    400058: ford_mustang_falken_wheel_rr_loda
+    2300000: ford_mustang_falken_body_loda
+    2300002: ford_mustang_falken_bonnet_loda
+    2300004: ford_mustang_falken_bootlid_loda
+    2300006: ford_mustang_falken_bumper_front_loda
+    2300008: ford_mustang_falken_bumper_rear_loda
+    2300010: ford_mustang_falken_caliper_lf_loda
+    2300012: ford_mustang_falken_caliper_lr_loda
+    2300014: ford_mustang_falken_caliper_rf_loda
+    2300016: ford_mustang_falken_caliper_rr_loda
+    2300018: ford_mustang_falken_chassis_lights_loda
+    2300020: ford_mustang_falken_chassis_loda
+    2300022: ford_mustang_falken_disc_lf_loda
+    2300024: ford_mustang_falken_disc_lr_loda
+    2300026: ford_mustang_falken_disc_rf_loda
+    2300028: ford_mustang_falken_disc_rr_loda
+    2300030: ford_mustang_falken_interior_loda
+    2300032: ford_mustang_falken_lightglows_f_loda
+    2300034: ford_mustang_falken_lightglows_r_loda
+    2300036: ford_mustang_falken_mirror_l_loda
+    2300038: ford_mustang_falken_mirror_r_loda
+    2300040: ford_mustang_falken_steeringwheel_loda
+    2300042: ford_mustang_falken_tire_lf_loda
+    2300044: ford_mustang_falken_tire_lr_loda
+    2300046: ford_mustang_falken_tire_rf_loda
+    2300048: ford_mustang_falken_tire_rr_loda
+    2300050: ford_mustang_falken_wheel_lf_loda
+    2300052: ford_mustang_falken_wheel_lr_loda
+    2300054: ford_mustang_falken_wheel_rf_loda
+    2300056: ford_mustang_falken_wheel_rr_loda
+    3300000: ford_mustang_falken_body_loda
+    3300002: ford_mustang_falken_bonnet_loda
+    3300004: ford_mustang_falken_bootlid_loda
+    3300006: ford_mustang_falken_bumper_front_loda
+    3300008: ford_mustang_falken_bumper_rear_loda
+    3300010: ford_mustang_falken_caliper_lf_loda
+    3300012: ford_mustang_falken_caliper_lr_loda
+    3300014: ford_mustang_falken_caliper_rf_loda
+    3300016: ford_mustang_falken_caliper_rr_loda
+    3300018: ford_mustang_falken_chassis_lights_loda
+    3300020: ford_mustang_falken_chassis_loda
+    3300022: ford_mustang_falken_disc_lf_loda
+    3300024: ford_mustang_falken_disc_lr_loda
+    3300026: ford_mustang_falken_disc_rf_loda
+    3300028: ford_mustang_falken_disc_rr_loda
+    3300030: ford_mustang_falken_interior_loda
+    3300032: ford_mustang_falken_lightglows_f_loda
+    3300034: ford_mustang_falken_lightglows_r_loda
+    3300036: ford_mustang_falken_mirror_l_loda
+    3300038: ford_mustang_falken_mirror_r_loda
+    3300040: ford_mustang_falken_steeringwheel_loda
+    3300042: ford_mustang_falken_tire_lf_loda
+    3300044: ford_mustang_falken_tire_lr_loda
+    3300046: ford_mustang_falken_tire_rf_loda
+    3300048: ford_mustang_falken_tire_rr_loda
+    3300050: ford_mustang_falken_wheel_lf_loda
+    3300052: ford_mustang_falken_wheel_lr_loda
+    3300054: ford_mustang_falken_wheel_rf_loda
+    3300056: ford_mustang_falken_wheel_rr_loda
+    4300000: ford_mustang_falken_chassis_loda
+    4300002: ford_mustang_falken_caliper_lf_loda
+    4300004: ford_mustang_falken_caliper_lr_loda
+    4300006: ford_mustang_falken_caliper_rf_loda
+    4300008: ford_mustang_falken_caliper_rr_loda
+    4300010: ford_mustang_falken_disc_lf_loda
+    4300012: ford_mustang_falken_disc_lr_loda
+    4300014: ford_mustang_falken_disc_rf_loda
+    4300016: ford_mustang_falken_disc_rr_loda
+    4300018: ford_mustang_falken_interior_loda
+    4300020: ford_mustang_falken_lightglows_f_loda
+    4300022: ford_mustang_falken_lightglows_r_loda
+    4300024: ford_mustang_falken_wheel_lr_loda
+    4300026: ford_mustang_falken_wheel_rr_loda
+    4300028: ford_mustang_falken_wheel_rf_loda
+    4300030: ford_mustang_falken_wheel_lf_loda
+    4300032: ford_mustang_falken_tire_lf_loda
+    4300034: ford_mustang_falken_tire_lr_loda
+    4300036: ford_mustang_falken_tire_rf_loda
+    4300038: ford_mustang_falken_tire_rr_loda
+    4300040: ford_mustang_falken_body_loda
+    4300042: ford_mustang_falken_bumper_rear_loda
+    4300044: ford_mustang_falken_bootlid_loda
+    4300046: ford_mustang_falken_bonnet_loda
+    4300048: ford_mustang_falken_steeringwheel_loda
+    4300050: ford_mustang_falken_bumper_front_loda
+    4300052: ford_mustang_falken_mirror_l_loda
+    4300054: ford_mustang_falken_mirror_r_loda
+    4300056: ford_mustang_falken_chassis_lights_loda
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: f3885b9b20dfaa14a9db9de54d3030f5
+timeCreated: 1456974008
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ford_mustang_falken_bonnet_cpit
+    100002: ford_mustang_falken_chassis_cpit
+    100004: ford_mustang_falken_chassis_paint_cpit
+    100006: //RootNode
+    100008: ford_mustang_falken_display_cpit
+    100010: ford_mustang_falken_earlyz_cpit
+    100012: ford_mustang_falken_gauge_glass_cpit
+    100014: ford_mustang_falken_gauges_cpit
+    100016: ford_mustang_falken_gearshift_cpit
+    100018: ford_mustang_falken_interior_cpit
+    100020: ford_mustang_falken_mirror_l_cpit
+    100022: ford_mustang_falken_mirror_r_cpit
+    100024: ford_mustang_falken_needle_fuel level_cpit
+    100026: ford_mustang_falken_needle_oiltemp_cpit
+    100028: ford_mustang_falken_needle_tachometer_cpit
+    100030: ford_mustang_falken_shift gaiter_cpit
+    100032: ford_mustang_falken_steeringwheel_cpit
+    100034: ford_mustang_falken_windscreen_cpit
+    400000: ford_mustang_falken_bonnet_cpit
+    400002: ford_mustang_falken_chassis_cpit
+    400004: ford_mustang_falken_chassis_paint_cpit
+    400006: //RootNode
+    400008: ford_mustang_falken_display_cpit
+    400010: ford_mustang_falken_earlyz_cpit
+    400012: ford_mustang_falken_gauge_glass_cpit
+    400014: ford_mustang_falken_gauges_cpit
+    400016: ford_mustang_falken_gearshift_cpit
+    400018: ford_mustang_falken_interior_cpit
+    400020: ford_mustang_falken_mirror_l_cpit
+    400022: ford_mustang_falken_mirror_r_cpit
+    400024: ford_mustang_falken_needle_fuel level_cpit
+    400026: ford_mustang_falken_needle_oiltemp_cpit
+    400028: ford_mustang_falken_needle_tachometer_cpit
+    400030: ford_mustang_falken_shift gaiter_cpit
+    400032: ford_mustang_falken_steeringwheel_cpit
+    400034: ford_mustang_falken_windscreen_cpit
+    2300000: ford_mustang_falken_bonnet_cpit
+    2300002: ford_mustang_falken_chassis_cpit
+    2300004: ford_mustang_falken_chassis_paint_cpit
+    2300006: ford_mustang_falken_display_cpit
+    2300008: ford_mustang_falken_earlyz_cpit
+    2300010: ford_mustang_falken_gauge_glass_cpit
+    2300012: ford_mustang_falken_gauges_cpit
+    2300014: ford_mustang_falken_gearshift_cpit
+    2300016: ford_mustang_falken_interior_cpit
+    2300018: ford_mustang_falken_mirror_l_cpit
+    2300020: ford_mustang_falken_mirror_r_cpit
+    2300022: ford_mustang_falken_needle_fuel level_cpit
+    2300024: ford_mustang_falken_needle_oiltemp_cpit
+    2300026: ford_mustang_falken_needle_tachometer_cpit
+    2300028: ford_mustang_falken_shift gaiter_cpit
+    2300030: ford_mustang_falken_steeringwheel_cpit
+    2300032: ford_mustang_falken_windscreen_cpit
+    3300000: ford_mustang_falken_bonnet_cpit
+    3300002: ford_mustang_falken_chassis_cpit
+    3300004: ford_mustang_falken_chassis_paint_cpit
+    3300006: ford_mustang_falken_display_cpit
+    3300008: ford_mustang_falken_earlyz_cpit
+    3300010: ford_mustang_falken_gauge_glass_cpit
+    3300012: ford_mustang_falken_gauges_cpit
+    3300014: ford_mustang_falken_gearshift_cpit
+    3300016: ford_mustang_falken_interior_cpit
+    3300018: ford_mustang_falken_mirror_l_cpit
+    3300020: ford_mustang_falken_mirror_r_cpit
+    3300022: ford_mustang_falken_needle_fuel level_cpit
+    3300024: ford_mustang_falken_needle_oiltemp_cpit
+    3300026: ford_mustang_falken_needle_tachometer_cpit
+    3300028: ford_mustang_falken_shift gaiter_cpit
+    3300030: ford_mustang_falken_steeringwheel_cpit
+    3300032: ford_mustang_falken_windscreen_cpit
+    4300000: ford_mustang_falken_chassis_cpit
+    4300002: ford_mustang_falken_windscreen_cpit
+    4300004: ford_mustang_falken_gauge_glass_cpit
+    4300006: ford_mustang_falken_interior_cpit
+    4300008: ford_mustang_falken_display_cpit
+    4300010: ford_mustang_falken_bonnet_cpit
+    4300012: ford_mustang_falken_chassis_paint_cpit
+    4300014: ford_mustang_falken_needle_tachometer_cpit
+    4300016: ford_mustang_falken_needle_oiltemp_cpit
+    4300018: ford_mustang_falken_needle_fuel level_cpit
+    4300020: ford_mustang_falken_gauges_cpit
+    4300022: ford_mustang_falken_steeringwheel_cpit
+    4300024: ford_mustang_falken_earlyz_cpit
+    4300026: ford_mustang_falken_gearshift_cpit
+    4300028: ford_mustang_falken_shift gaiter_cpit
+    4300030: ford_mustang_falken_mirror_l_cpit
+    4300032: ford_mustang_falken_mirror_r_cpit
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

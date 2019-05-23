@@ -1,0 +1,178 @@
+newmtl Default
+Ka 0 0 0
+Kd 0.52549 0.52549 0.52549
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd racer.tga
+
+newmtl Default_01
+Ka 0 0 0
+Kd 0.52549 0.52549 0.52549
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd racer.tga
+
+newmtl Defaultx
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Plash
+Ka 0 0 0
+Kd 0.52549 0.52549 0.52549
+Ks 0.255 0.255 0.255
+Ni 1
+Ns 224
+Tf 1 1 1
+d 1
+map_Kd Plash_D.psd
+
+newmtl plash_remeshok
+Ka 1 1 1
+Kd 0.52549 0.52549 0.52549
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Plash_D.psd
+
+newmtl plash_remeshok_priajka
+Ka 0 0 0
+Kd 0.784314 0.752941 0.52549
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Dark_elf_naruchniki_D.psd
+
+newmtl shitok
+Ka 0 0 0
+Kd 0.784314 0.752941 0.52549
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Dark_elf_naruchniki_D.psd
+
+newmtl shitok_bolt
+Ka 0 0 0
+Kd 0.784314 0.752941 0.52549
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Dark_elf_naruchniki_D.psd
+
+newmtl shitok_gold
+Ka 0.985 0.985 0.985
+Kd 0.784314 0.752941 0.52549
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd Dark_elf_naruchniki_D.psd
+
+newmtl shitok_gold_01
+Ka 0.985 0.985 0.985
+Kd 0.784314 0.752941 0.52549
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd light_elf_naruchnik_D.psd
+
+newmtl shitok_metal
+Ka 0.985 0.985 0.985
+Kd 0.784314 0.752941 0.52549
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd light_elf_naruchnik_D.psd
+
+newmtl shitok_o1
+Ka 0 0 0
+Kd 0.309804 0.309804 0.309804
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd light_elf_naruchnik_D.psd
+
+newmtl shitok_skeen
+Ka 1 1 1
+Kd 0.54902 0.462745 0.407843
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd light_elf_naruchnik_D.psd
+
+newmtl shitok_skeen_Remeshok
+Ka 1 1 1
+Kd 0.356863 0.298039 0.266667
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+map_Kd light_elf_naruchnik_D.psd
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl default
+Ka 1 1 1
+Kd 0.588 0.588 0.588
+Ks 0.495 0.495 0.495
+Ni 1.5
+Ns 430
+Tf 1 1 1
+d 1
+map_Kd racer.tga
+
+newmtl raser
+Ka 0.41 0.41 0.41
+Kd 0.588 0.588 0.588
+Ks 1.2 1.2 1.2
+Ni 1.5
+Ns 300
+Tf 1 1 1
+d 1
+map_Kd racer.tga
+
+newmtl raser
+Ka 0 0 0
+Kd 0.588 0.588 0.588
+Ks 0 0 0
+Ni 1.5
+Ns 430
+Tf 1 1 1
+d 1
+map_Kd racer.tga
+
